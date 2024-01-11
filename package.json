@@ -9,7 +9,7 @@
         "checkout:speed": "node scripts/checkout_cart speedcheck"
     },
     "dependencies": {
-        "axios": "^0.26.1",
+        "axios": "^1.6.2",
         "dateformat": "^4.5.1",
         "fs-extra": "^10.1.0",
         "sound-play": "^1.1.0"
